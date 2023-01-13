@@ -15,7 +15,7 @@ al año 2020 de los diferentes municipios que conforman las Islas Baleares.
 Los indicadores, series o gráficas obtenidas han sido las siguientes:
 
 - Se ha calculado el crecimiento vegetativo medio de los municipios de Baleares.
-- Se ha obtenido de manera ascendente los municipios de Baleares según el número de nacidos vivo por residencia materna.
+- Se ha obtenido de manera ascendente los municipios de Baleares según el número de nacidos vivos por residencia materna.
 - Se ha generado un histograma con los datos relativos a las "muertes fetales tardías por residencia materna".
 - Se ha calculado la mediana del número de "matrimonios por el lugar en que han fijado residencia".
 
